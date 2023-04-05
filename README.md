@@ -16,4 +16,4 @@ Faça um **fork** deste repositório e realize as seguintes atividades:
 - [ ] Implemente a função excluirPrimeiroElemento
 - [ ] Implemente a função exibirReverso
 
-Ana Caroline // ana.amaral9@fatec.sp.gov.br
+Ana Caroline // ana.amaral9@fatec
